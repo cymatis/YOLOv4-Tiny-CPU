@@ -1,6 +1,6 @@
 # YOLOv4-Tiny-CPU 
 ## MSCOCO Performance Comparison   
-Model was trained by using MSCOCO trainval 2017 datasets and test with OpenCV Deep learning module.   
+Model was trained by using MSCOCO trainval 2017 datasets and tested with OpenCV Deep learning module.   
 mAP was calculated from the codaLab competition with MSCOCO testdev2019.   
 YOLOv4-Tiny-CPU used the anchor values calculated for MSCOCO train data.     
 Name of CPU indicate the FPS on the device.   
