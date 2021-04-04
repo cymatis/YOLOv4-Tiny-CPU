@@ -8,7 +8,7 @@ Name of CPU indicate the FPS on the device.
 |:-------------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | [YOLOv3-Tiny](https://pjreddie.com/darknet/yolo "pjreddie") | 416 | 33.1 | 61.8 | - | - | - | 1.10 | 5.6 | 33.8MB |
 | [YOLOv4-Tiny](https://github.com/AlexeyAB/darknet "Alexey") | 416 | 40.2 | 56.6 | 31.7 | 19.8 | 8.4 | 0.98 | 6.9 | 23.1MB |
-| [YOLOv4-Tiny-CPU](https://drive.google.com/file/d/11gbL1hE9IuXxsvblE91Ui4Q-1zHuULIf/view?usp=sharing) | 416 | 40.0 | 61.6 | 40.3 | 25.8 | 11.3 | 1.33 | 5.4 | 15.7MB |
+| [YOLOv4-Tiny-CPU](https://drive.google.com/file/d/11gbL1hE9IuXxsvblE91Ui4Q-1zHuULIf/view?usp=sharing) | 416 | 40.2 | 61.6 | 40.3 | 25.8 | 11.3 | 1.33 | 5.4 | 15.7MB |
 
 
 ## Test on video
