@@ -4,6 +4,7 @@ Model was trained by using MSCOCO trainval 2017 datasets and tested with OpenCV 
 mAP was calculated from the codaLab competition with MSCOCO testdev2019.   
 YOLOv4-Tiny-CPU used the anchor values calculated on MSCOCO train data.     
 Name of CPU indicates the FPS on the device.   
+vCPU used Google Compute Engine N2. (Intel Cascade Lake)
 | Model | Size | AP<sub>50</sub> | BFLOPs | Model size |
 |:-------------------|--------:|--------:|--------:|--------:|   
 | [YOLOv3-Tiny](https://pjreddie.com/darknet/yolo "pjreddie") | 416 | 33.1 | 5.6 | 33.8MB |
