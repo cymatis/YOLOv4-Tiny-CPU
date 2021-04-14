@@ -23,3 +23,7 @@ https://github.com/opencv/opencv/blob/master/samples/dnn/object_detection.py
 python3 object_detection.py --config=cfg/yolov4-tiny-cpu.cfg --model=weights/yolov4-tiny-cpu.weights --classes=coco.names --width=416 --height=416 --scale=0.00392 --input=test.mp4 --rgb
 ```
 
+fp16
+```
+python3 object_detection.py --config=cfg/yolov4-tiny-cpu.cfg --model=weights/yolov4-tiny-cpu.weights --classes=coco.names --width=416 --height=416 --scale=0.00392 --input=test.mp4 --rgb --target=2
+```
