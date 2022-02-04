@@ -1,4 +1,4 @@
-# YOLOv4-Tiny-CPU 
+# LW-YOLOv4-Tiny-CPU 
 ## MSCOCO Performance Comparison   
 Model was trained by using MSCOCO trainval 2017 datasets with [Darknet Framework](https://github.com/AlexeyAB/darknet "AlexeyAB") and tested with OpenCV Deep learning module.   
 mAP was calculated from the codaLab competition with MSCOCO testdev2019.   
