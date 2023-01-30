@@ -10,6 +10,7 @@ vCPU used Google Compute Engine with N2 High CPU Machine type. (Intel Cascade La
 | [YOLOv4-Tiny](https://github.com/AlexeyAB/darknet "Alexey") | 416 | 40.2 | 6.9 | 23.1MB |
 | [LW-YOLOv4-Tiny](https://drive.google.com/file/d/11gbL1hE9IuXxsvblE91Ui4Q-1zHuULIf/view?usp=sharing) | 416 | 40.2 | 5.4 | 15.7MB |    
 
+without video processing
 | Model | vCPU x2 | vCPU x4 | vCPU x8 | i7-10700 | i7-9700K | i7-6850K | i5-8265U | ARM A52 |
 |:-------------------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
 | [YOLOv4-Tiny](https://github.com/AlexeyAB/darknet "Alexey") | 2.52 | 5.07 | 10.11 | 56.6 | 31.7 | 19.8 | 8.4 | 0.98 |
